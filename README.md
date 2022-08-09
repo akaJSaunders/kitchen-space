@@ -1,3 +1,3 @@
 # kitchen-space 
 
-A project to create an online space for sharing your food!
+A platform for users to manage their own food recipes!
